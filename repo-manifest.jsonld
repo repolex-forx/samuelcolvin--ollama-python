@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/ollama-python/commit/70dd0b7e639f5b6b39e15963521f1d4c6810464b",
       "git:hexsha": "70dd0b7e639f5b6b39e15963521f1d4c6810464b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:13:50.593019+00:00"
     }
   ]
 }
